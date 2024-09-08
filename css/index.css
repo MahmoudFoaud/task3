@@ -1,0 +1,15 @@
+
+.post{
+    transition: .5s;
+    margin-bottom:10px;
+    border: 2px solid;
+    border-color: transparent transparent black transparent;
+    text-align: center;
+    
+
+}
+.post:hover{
+    background-color:aquamarine;
+    transform: translate3d(1px,1px,1px);
+    box-shadow: 1px 1px 10px 1px ;
+}
